@@ -1,3 +1,4 @@
 {
-  "name":"gaomingcode/switchery"
+  "name":"gaomingcode/switchery",
+  "type": "library"
 }
