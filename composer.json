@@ -12,6 +12,8 @@
     "minimum-stability": "stable",
     "prefer-stable": true,    
     "authors": [
-        "Alexander Petkov"
+        {
+        "name": "Alexander Petkov"
+        }
     ]
 }
