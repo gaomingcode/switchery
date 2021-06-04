@@ -2,7 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/switchery.svg)](https://github.com/gaomingcode/switchery)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/switchery)](https://github.com/gaomingcode/switchery)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/switchery)](https://github.com/gaomingcode/switchery)
+[![Github License](https://img.shields.io/github/license/gaomingcode/switchery)](https://github.com/gaomingcode/switchery)
 
 ## Installation
 
@@ -11,7 +11,11 @@
 ```
 composer require gaomingcode/switchery
 ```
-###
+
+## ReadMe from Origin
+![Switchery](http://i.imgur.com/xJAM3Jq.png)
+
+## Description
 
 Switchery is a simple component that helps you turn your default HTML checkbox inputs into beautiful iOS 7 style switches in just few simple steps. You can easily customize switches, so that they match your design perfectly.
 
